@@ -1,4 +1,4 @@
-# antaresphdev
+# Antares Programming
 The official Github organization of Antares Programming
 
 ## What happened to the other Github organization?
